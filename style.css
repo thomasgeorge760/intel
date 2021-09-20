@@ -236,7 +236,7 @@ ul{
 }
 .section-3-sublist{
     width: 25vw;
-    height: 115vh;
+    height: 118vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -255,7 +255,7 @@ ul{
 .card-1{
     background-color: #f3f3f3;
     width: 25vw;
-    height: 67vh;
+    height: 68vh;
 }
 .card-1-img{
     overflow: hidden;
@@ -275,7 +275,7 @@ ul{
 .card-2{
     background-color: #f3f3f3;
     width: 25vw;
-    height: 45vh;
+    height: 46vh;
     
 }
 .card-2-img{
@@ -367,7 +367,7 @@ ul{
 
 .section-3-sublist-2{
     width: 25vw;
-    height: 98vh;
+    height: 99vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -376,7 +376,7 @@ ul{
 .card-4{
     background-color: #f3f3f3;
     width: 25vw;
-    height: 51vh;
+    height: 52vh;
 }
 .card-4-img{
     overflow: hidden;
